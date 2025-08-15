@@ -1,0 +1,7 @@
+{
+  "name": "Dirgahayu Indonesia Ke-80",
+  "description": "A festive web application to celebrate the 79th Indonesian Independence Day, featuring patriotic songs, fireworks, and an AI-powered content generator for creating poems and greetings. Merdeka!",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
